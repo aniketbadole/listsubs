@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Aniket Badole
 
 # Prompt the user for the target domain
 echo "Enter the target domain:"
